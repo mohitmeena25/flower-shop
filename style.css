@@ -1,0 +1,24 @@
+*{
+    font-family: "Madimi One", sans-serif;
+    font-weight: lighter;
+}
+
+.container{
+    text-align: center;
+}
+
+.container h3{
+    margin:2%;
+}
+
+.navbar{
+    background-image:linear-gradient(to right,rgb(163,220,240),rgb(232,164,216));
+}
+
+.card,.last{
+    background-image:linear-gradient(to right,rgb(163,220,240),rgb(232,164,216));
+}
+
+.card1,.carousel{
+    background-image:linear-gradient(to right,rgb(163,220,240),rgb(107, 107, 249));
+}
